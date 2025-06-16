@@ -1,8 +1,6 @@
 # NestJS Authentication Example
 
-This project is a simple authentication system built with 
-* [![Nest][Nest.js]][Nest-url], 
-TypeORM, and JWT. It demonstrates user registration, login, and profile retrieval using local and JWT strategies.
+This project is a simple authentication system built with Nest Framework, TypeORM, JWT. It demonstrates user registration, login, and profile retrieval using local and JWT strategies.
 
 ## Table of Contents
 
